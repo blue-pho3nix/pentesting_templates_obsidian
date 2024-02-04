@@ -1,0 +1,19 @@
+{
+  "defaultViewMode": "source",
+  "showLineNumber": false,
+  "showInlineTitle": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "promptDelete": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "img",
+  "useMarkdownLinks": true,
+  "autoConvertHtml": true
+}
